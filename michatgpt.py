@@ -1,7 +1,7 @@
 import openai
 
 # Indica el API KEY
-openai.api_key = "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"
+openai.api_key = "sk-yqj8VavOD2ZRet0HlbB4T3BlbkFJaxXKS8Ns2s121524a"
 
 # Uso de ChatGPT en PYTHON
 model_engine = "text-davinci-003"
